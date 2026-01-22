@@ -1,7 +1,7 @@
 # 🌈 Proyecto de Trabajo Colaborativo UTBB
 
 ## ✨ Bienvenida
-¡Hola! Este es un espacio diseñado para que los estudiantes de la **Universidad Técnica de Bahía de Banderas** practiquen y dominen el trabajo colaborativo usando Git y GitHub.
+¡Hola! Este es un espacio diseñado para que los estudiantes de la **Universidad Tecnológica de Bahía de Banderas** practiquen y dominen el trabajo colaborativo usando Git y GitHub.
 
 ## 🎯 Objetivos
 - 👥 Aprender a trabajar en equipo con control de versiones
