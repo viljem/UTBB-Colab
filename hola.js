@@ -1,1 +1,3 @@
-alert("¡Funciona!");
+window.onload = function() {
+    alert("¡Funciona!");
+};
